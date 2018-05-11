@@ -1,0 +1,5 @@
+churros 0.94477624
+kajuroll 0.014668706
+french fries 0.013400715
+dosa 0.01019671
+peking duck 0.0049305763
